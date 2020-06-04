@@ -1,10 +1,6 @@
 <html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-		<meta http-equiv="Content-Style-Type" content="text/css" />
-		<meta http-equiv="keywords" content="R?publique des Mangues, Mangues, mangue" />
-		<meta http-equiv="description" content="Site internet officiel de la R?publique des Mangues." />
-		<meta property="fb:app_id" content="448467775189418" />
+		
 		
 		<link rel="icon" href="favicon-small.png" sizes="32x32"> 
 		<link rel="shortcut icon" href="favicon.png" type="image/x-icon">
